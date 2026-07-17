@@ -29,8 +29,11 @@ redirect_from:
   ============================================================================
 -->
 
-Hello — I'm **[Your Name]**, a student in the Bachelor of Applied Biotechnology
+Hello — I'm **[Skye Lambert]**, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College.
+
+In my professional experience, data management has always been an extensive task that motivates constant improvement. My ambition within bioinformatics aligns with self-driven learning and curiosity to understand concepts about computational data analysis. 
+
 
 [Write one or two sentences about your professional interests or the direction
 you want your career to take. Be specific: what kind of work in biotechnology

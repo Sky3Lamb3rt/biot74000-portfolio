@@ -6,41 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<!--
-  ============================================================================
-  SECTION 1: ABOUT  (10 points)  |  Suggested length: 100–200 words
-  ============================================================================
-  This is the first page visitors see. Write a brief, professional
-  introduction for someone who does not know you — imagine a hiring manager
-  doing a 30-second scan. This is NOT a personal bio.
-
-  Include:
-    - Your name and academic program
-    - One or two sentences about your professional interests / career direction
-    - One sentence on why bioinformatics is relevant to your goals
-    - (Optional) a professional photo — see the guide for how to add one
-
-  HOW TO EDIT:
-    - Replace the placeholder text below with your own.
-    - Keep the "---" block at the very top of this file exactly as it is.
-    - Delete these grey instruction notes (everything between the
-      <!-- and --​> marks) before you submit.
-  ============================================================================
--->
-
 Hello — I'm **[Skye Lambert]**, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College.
 
 In my professional experience, data management has always been an extensive task that motivates constant improvement. My ambition within bioinformatics aligns with self-driven learning and curiosity to understand concepts about computational data analysis. 
 
+As a student at Conestoga College, with a strong interest in chemical and biochemical analysis. I am particularly interested in instrumental analysis, including FTIR for identifying molecular characteristics, GC for analyzing chemical components, HPLC for separation and quantification, and UV spectrometry for measuring analyte concentrations. 
+These laboratory-based analytical skills align with my career goal of working in a quality assurance or quality control position, where accurate analytical testing and reliable interpretation of results are necessary to ensure product quality and safety. 
+Pursuing chemical analysis in food science is one of my greatest passions. ☺
+Bioinformatics complements these goals by strengthening data analysis and interpretation that can be applied to statistical methods for results obtained from instrumental analysis.
 
-[Write one or two sentences about your professional interests or the direction
-you want your career to take. Be specific: what kind of work in biotechnology
-or bioinformatics interests you, and why?]
 
-[Write one sentence explaining why bioinformatics matters for where you want to
-go. This connects the skills in this portfolio to your goals.]
-
-This portfolio documents the bioinformatics tools, methods, and skills I have
-developed, and how I have applied them.

@@ -4,56 +4,18 @@ title: "Capstone Connection"
 author_profile: true
 ---
 
-<!--
-  ============================================================================
-  SECTION 4: CAPSTONE CONNECTION  (20 points)  |  Suggested length: 200–300 words
-  ============================================================================
-  A concise, professional summary of how you applied bioinformatics to your
-  capstone project. This draws from your Assignment 2 work — it is a
-  professional-context summary, NOT a repeat of the assignment.
+**Capstone Connection**
 
-  INCLUDE:
-    - A 2–4 sentence description of your capstone project (assume a general
-      audience who is not in your program)
-    - The bioinformatics tool, dataset, or method you applied in Assignment 2,
-      and why it was relevant
-    - What you found or produced, described in plain language
-    - 1–2 sentences on how this bioinformatics component strengthened your capstone
-    - (Optional) embedded images or output figures — see the guide for how to
-      add an image
+My capstone project investigated whether antibiotic resistance in Escherichia coli could be associated with measurable changes in biochemical composition using ART-FTIR spectroscopy. Raw spectral data from resistant and non-resistant E. coli were compared using FTIR standards to identify biochemical fingerprints.
 
-  HOW TO EDIT:
-    - Replace the placeholder text below with your own.
-    - Delete these grey instruction notes before you submit.
-  ============================================================================
--->
+For the bioinformatics component, I developed an annotated workflow script in RStudio to analyze raw data collected from Kirby-Bauer susceptibility testing and ATR-FTIR spectroscopy. This method was relevant for organizing and interpreting biological data, identifying meaningful patterns within these complex datasets. The analysis produced two figures: (1) Figure 1 is a box plot of the average zone of inhibition (mm) taken from resistant and non-resistant strains after exposure to antibiotics, and (2) Figure 2 is a line graph displaying the average ATR-FTIR absorbance spectra of non-resistant and resistant E. coli strains. This has allowed me to normalize the data to produce more accurate and reproducible interpretations.  
 
-## My Capstone Project
+Applying these bioinformatics methods has strengthened the capstone research question by providing a statistical approach for analyzing the information, in tandem with instrumental analysis.
 
-[In 2–4 sentences, describe your capstone project for a general reader. What
-question or problem does it address? Why does it matter? Avoid program-specific
-jargon.]
+---
 
-## The Bioinformatics Component
+<img width="950" height="767" alt="Kirby_Bauer_Antibiotic_Susceptibility_V3" src="https://github.com/user-attachments/assets/57537865-10dd-400b-b96e-1be08365630c" />
+Figure 1: Average zone of inhibition (mm) of resistant and non-resistant E. coli strains following exposure to ampicillin and penicillin. Values represent the mean of three replicates across four experimental trials, with error bars representing the standard deviation.
 
-[Describe the specific bioinformatics tool, dataset, or method you applied in
-Assignment 2, and explain why it was the right choice for this problem.]
-
-[In plain language, describe what you found or produced. What did the analysis
-tell you?]
-
-## Why It Strengthened My Capstone
-
-[In 1–2 sentences, explain how adding this bioinformatics work made your
-capstone project stronger, more credible, or more complete.]
-
-<!--
-  OPTIONAL — to embed an image or figure you produced:
-  1. Upload the image file to the images/ folder in your repository.
-  2. Add a line like this where you want it to appear (remove the leading
-     grey-comment marks):
-
-     ![Short description of the figure](/biot74000-portfolio/images/your-figure.png)
-
-  Make sure the path matches your repository name.
--->
+<img width="932" height="783" alt="Average_of_Non_resistant_and_Resistant_Strains_V2" src="https://github.com/user-attachments/assets/c43ba3c8-c157-409e-b06d-77eda480d8f6" />
+Figure 2: Comparison of the average FTIR absorbance spectra of non-resistant and resistant E. coli strains. Wavenumber (cm⁻¹) is shown on the x-axis and absorbance (AU) on the y-axis. Spectral peaks associated with major biochemical components are indicated at their corresponding wavenumber: (I) Lipid membrane, (II) Amide I, (III) Amide II, and (IV) Polysaccharides and nucleic acids. 

@@ -4,84 +4,24 @@ title: "Bioinformatics Toolkit"
 author_profile: true
 ---
 
-<!--
-  ============================================================================
-  SECTION 2: BIOINFORMATICS TOOLKIT  (30 points)
-  ============================================================================
-  A curated, annotated catalogue of the tools, databases, file formats, and
-  methods you worked with in this course. This is the POLISHED version of your
-  Course Learning Log — not a copy-paste, but a professional re-write,
-  organized by CATEGORY (not by unit).
-
-  FOR EACH ENTRY, INCLUDE:
-    - Tool / database name
-    - 1–2 sentences describing one specific use example from the course
-      that YOU performed
-    - One note on a strength or a limitation
-
-  SUGGESTED CATEGORIES (use the ones that fit your work; add or remove as needed):
-    Sequence Analysis Tools · Databases & Data Retrieval ·
-    Genome & Transcriptome Analysis · Protein Structure & Function ·
-    Computational & Scripting Tools · Data Visualization
-
-  Entries copied word-for-word from documentation will not receive full marks —
-  use your own words. Quality and honesty matter more than the number of entries.
-
-  HOW TO EDIT:
-    - Replace the example entries below with your own.
-    - Keep the same simple pattern: a "##" category heading, then one
-      "###" heading per tool, then your notes underneath.
-    - Delete these grey instruction notes before you submit.
-  ============================================================================
--->
-
-_A curated catalogue of the tools, databases, and methods I have worked with,
+_A curated catalogue of the databases I have worked with,
 organized by what they are used for._
 
-## Sequence Analysis Tools
-
-### BLAST (Basic Local Alignment Search Tool)
-
-**Use example:** [Describe one specific thing you did with BLAST in this course
-— e.g. "I used BLASTn to identify the closest known relatives of a query
-sequence during the Unit 2 alignment activity, and interpreted the E-values and
-query coverage to judge which hits were meaningful."]
-
-**Strengths / limitations:** [One honest note — e.g. "Fast and easy for finding
-similar sequences, but the top hit by score is not always the most biologically
-relevant, so results need careful interpretation."]
+**NCBI (National Center for Biotechnology Information)**
+NCBI was used to research the acrB gene in E. coli and collect genetic information, including the gene record, RefSeq accession number, nucleotide sequence, and FASTA file. This information provided the sequence data needed for bioinformatic analysis and comparison. 
+A key strength is that BLAST can be accessed directly from individual gene records, making it convenient to move from sequence retrieval to sequence comparison; however, the large amount of information available can make the database overwhelming at first. 
 
 ---
 
-### [Tool Name]
-
-**Use example:** [Your text here.]
-
-**Strengths / limitations:** [Your text here.]
+**UniProt**
+UniProt was used to research the function of the acrB protein based on the gene sequence information obtained from NCBI. The database provided information about the protein's functional annotations and cited sources. This analysis improved my understanding of its biological role by connecting the nucleotide sequence to the corresponding protein function. 
+This database is a reliable resource because its Swiss-Prot section includes manually reviewed and curated protein annotations. However, manual curation is time-intensive, so newly identified sequences and functional information may take longer than in automatically annotated databases. 
 
 ---
 
-## Databases & Data Retrieval
-
-### UniProt
-
-**Use example:** [Describe one specific retrieval or lookup you performed.]
-
-**Strengths / limitations:** [One honest note.]
+**BLAST (Basic Local Alignment Search Tool)**
+BLAST was used with the arcB RefSeq obtained from NCBI to identify and compare similar biological sequences. I examined the most notable sequence hits to determine which unknown sequences were most closely related to my query.
+This database is highly sensitive and versatile, with different versions available for different versions available for nucleotide and protein sequences. However, with this experience, the results depended heavily on the quality and specificity of the query sequence and reference data. 
 
 ---
 
-## Data Visualization
-
-### [Tool Name]
-
-**Use example:** [Your text here.]
-
-**Strengths / limitations:** [Your text here.]
-
----
-
-<!--
-  Add more categories and entries by copying the pattern above.
-  Aim for a toolkit that reads like notes a working professional would keep.
--->

@@ -24,4 +24,4 @@ _Skills I have used in a guided setting and would need support to apply independ
 | Skill / Tool | Level of experience |
 |---|---|
 | Ref-Seq |  I have retrieved reference DNA, RNA, and protein sequences and then interpreted the Ref-Seq associated with them to distinguish reference records from primary sequence submissions. (FASTA and sequence annotations)|
-
+|AlphaFold| Can interpret pLDDT scores to distinguish regions of reliable structural folding potential and areas where predictions should be viewed with caution. (pLDDT confidence scores)|
